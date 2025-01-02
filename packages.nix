@@ -84,6 +84,7 @@ in
     gcc
     tree
     spotify
+    expect
   ] ++
   #Python
   (with python312Packages; [ 
