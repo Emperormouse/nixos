@@ -33,7 +33,6 @@ in
     alacritty
     htop
     neofetch
-    nodejs_22
     cmatrix
     virtualbox
     discord
