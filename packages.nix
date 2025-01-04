@@ -84,7 +84,8 @@ in
     gcc
     tree
     spotify
-    expect
+    tmux
+    nmap
   ] ++
   #Python
   (with python312Packages; [ 
