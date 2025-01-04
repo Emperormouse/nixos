@@ -84,7 +84,7 @@ in
     spotify
     tmux
     nmap
-    exa
+    eza
   ] ++
   #Python
   (with python312Packages; [ 
