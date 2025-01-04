@@ -71,7 +71,6 @@ in
     xclip
     meld
     xfce.xfce4-screenshooter
-    plymouth
     wget
     qogir-theme
     qogir-icon-theme
