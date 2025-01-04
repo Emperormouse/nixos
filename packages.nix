@@ -92,6 +92,7 @@ in
   (with python312Packages; [ 
     requests 
     iwlib
+    rich
   ]);
 }
 
