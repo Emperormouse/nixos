@@ -85,6 +85,8 @@ in
     tmux
     nmap
     eza
+    bluez
+    bluez-alsa
   ] ++
   #Python
   (with python312Packages; [ 
