@@ -87,6 +87,7 @@ in
     eza
     bluez
     bluez-alsa
+    pkg-config
   ] ++
   #Python
   (with python312Packages; [ 
