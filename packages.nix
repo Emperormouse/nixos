@@ -36,7 +36,7 @@ in
     cmatrix
     virtualbox
     discord
-    vscodium
+    vscodium-fhs
     flatpak
     gimp
     lutris
