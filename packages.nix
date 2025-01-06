@@ -88,6 +88,7 @@ in
     bluez
     bluez-alsa
     pkg-config
+    openssl
   ] ++
   #Python
   (with python312Packages; [ 
