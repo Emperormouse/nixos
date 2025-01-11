@@ -27,6 +27,10 @@ in
     polybar
     dunst
 
+    #zig
+    zig
+    zls
+
     #other
     git
     neovim

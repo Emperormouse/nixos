@@ -103,6 +103,7 @@ in
     THEME_BG = themeBG;
     EDITOR = "nvim";
     XDG_CONFIG_HOME = "$HOME" + "/.config";
+
   };
 
   systemd.services.ssh-tunnel = {
