@@ -56,7 +56,7 @@ in
       displayManager = {
         lightdm = {
           enable = true;
-          greeters.mini = {
+          /*greeters.mini = {
             enable = true;
             user = "malcolm";
             extraConfig = ''
@@ -64,13 +64,12 @@ in
                 background-image = "/etc/nixos/data/login-background.jpg"
                 window-color = "${themeFG}"
             '';
-          };
-          /*
+          };*/
 	      greeters.slick = {
 	        enable = true;
             draw-user-backgrounds = true;
 	        extraConfig = "background=/etc/nixos/data/login-background.jpg";
-	      };*/
+	      };
         };
       };
     };
