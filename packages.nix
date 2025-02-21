@@ -90,6 +90,7 @@ in
     pkg-config
     openssl
     blueberry
+    zig
   ] ++
   #Python
   (with python312Packages; [ 
