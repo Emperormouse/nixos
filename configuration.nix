@@ -68,7 +68,7 @@ in
 	      greeters.slick = {
 	        enable = true;
             draw-user-backgrounds = true;
-	        extraConfig = "background=/etc/nixos/data/login-background.jpg";
+	        # extraConfig = "background=/etc/nixos/data/login-background.jpg";
 	      };
         };
       };
