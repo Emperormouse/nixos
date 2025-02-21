@@ -27,10 +27,6 @@ in
     polybar
     dunst
 
-    #zig
-    zig
-    zls
-
     #other
     git
     neovim
@@ -93,6 +89,7 @@ in
     bluez-alsa
     pkg-config
     openssl
+    blueberry
   ] ++
   #Python
   (with python312Packages; [ 
