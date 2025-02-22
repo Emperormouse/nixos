@@ -91,6 +91,7 @@ in
     openssl
     blueberry
     zig
+    libclang
   ] ++
   #Python
   (with python312Packages; [ 
