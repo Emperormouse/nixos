@@ -21,7 +21,7 @@ in
   # Bootloader.
   boot = {
     initrd.systemd.enable = true;
-    kernelParams = [ "quiet" "splash" ];
+    kernelParams = [ "quiet" ];
     loader = {
       systemd-boot.enable = true;
       efi.canTouchEfiVariables = true;
